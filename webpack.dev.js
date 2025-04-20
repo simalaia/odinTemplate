@@ -8,4 +8,4 @@ module.exports = {
     devServer: {
 	watchFiles: ["./src/template.html"],
     },
-})
+}
